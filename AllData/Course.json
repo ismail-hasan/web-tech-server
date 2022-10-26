@@ -1,39 +1,75 @@
 [
     {
     "id":"1",
-    "name":"HTML",
+    "name":"HTML AND CSS",
+    "courses": "232 courses",
+    "review":"43 reviews",
     "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?cs=srgb&dl=pexels-george-becker-374918.jpg&fm=jpg&_gl=1*13ae1og*_ga*MTM5MDk1MzI0NC4xNjY2NDMwNTMy*_ga_8JE65Q40S6*MTY2NjcxMDc5OS42LjEuMTY2NjcxMDgxMi4wLjAuMA..",
-     "dec":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
+    "rate": "$29",
+    "authorName": "Atik Ahamed",
+    "authorDec":"Good one! Slowly, but surely explained everything. Not too long, chapters made to the point. All what is needed is said. Already had some experience with HTML5 and CSS, but decided to go for another course just to maybe see some new things, or get more explanations. No regret, i've built Omnifood with Jonas and again, rebuilt it alone, with Grid&Sass. Had lots of fun, and gain lots of knowledge. Thanks and see you in next one.",
+    "authorImg": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-ethnic-businessman-in-office-picture-id1300512215?b=1&k=20&m=1300512215&s=170667a&w=0&h=LsZL_-vvAHB2A2sNLHu9Vpoib_3aLLkRamveVW3AGeQ=",
+     "dec":"HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. his markup tells a web browser how to display text, images and other forms of multimedia on a webpage. Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid"
     },
     {
     "id":"2",
-    "name":"JAVASCRIPT",
+    "name":"JAVASCRIPT COURSE",
+    "rate": "$29",
+    "courses": "56 courses",
+    "review":"154 reviews",
+    "authorDec":"Hi, I'm Jonas! I have been identified as one of Udemy's Top Instructors and all my premium courses have earned the best-selling status for outstanding performance and student satisfaction. I'm a full-stack web developer and designer with a passion for building beautiful things from scratch. I've been building websites and apps since 2010 and also have a Master's degree in Engineering.",
+    "authorImg": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-ethnic-businessman-in-office-picture-id1300512215?b=1&k=20&m=1300512215&s=170667a&w=0&h=LsZL_-vvAHB2A2sNLHu9Vpoib_3aLLkRamveVW3AGeQ=",
+    "authorName": "Jamal Mostofa",
     "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?cs=srgb&dl=pexels-george-becker-374918.jpg&fm=jpg&_gl=1*13ae1og*_ga*MTM5MDk1MzI0NC4xNjY2NDMwNTMy*_ga_8JE65Q40S6*MTY2NjcxMDc5OS42LjEuMTY2NjcxMDgxMi4wLjAuMA..",
-     "dec":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
+     "dec":"JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side"
     },
     {
     "id":"3",
+    "rate": "$29",
     "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?cs=srgb&dl=pexels-george-becker-374918.jpg&fm=jpg&_gl=1*13ae1og*_ga*MTM5MDk1MzI0NC4xNjY2NDMwNTMy*_ga_8JE65Q40S6*MTY2NjcxMDc5OS42LjEuMTY2NjcxMDgxMi4wLjAuMA..",
-    "name":"CSS",
-     "dec":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
+    "name":"MASTER OF CSS",
+    "courses": "100 courses",
+    "review":"87 reviews",
+    "authorName": "Hasan mahamud",
+    "authorDec":"Having worked as a business analyst in both a major consultancy and an investment bank, I always found myself confronted with both various and complex problem sets and challenging client demands. The rapid development of technology and business requirements forces everyone to constantly adapt and to continue learning. Being an early adopter of new and quickly evolving tools, I always enjoyed both learning these tools and passing on my knowledge to my colleagues and fellow students. ",
+    "authorImg": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-ethnic-businessman-in-office-picture-id1300512215?b=1&k=20&m=1300512215&s=170667a&w=0&h=LsZL_-vvAHB2A2sNLHu9Vpoib_3aLLkRamveVW3AGeQ=",
+     "dec":"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS stands for Cascading Style Sheets · CSS describes how HTML elements are to be displayed on screen, paper, or in other media · CSS saves a lot of work CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different"
     },
     {
     "id":"4",
+    "rate": "$29",
     "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?cs=srgb&dl=pexels-george-becker-374918.jpg&fm=jpg&_gl=1*13ae1og*_ga*MTM5MDk1MzI0NC4xNjY2NDMwNTMy*_ga_8JE65Q40S6*MTY2NjcxMDc5OS42LjEuMTY2NjcxMDgxMi4wLjAuMA..",
-    "name":"PYTHON",
-     "dec":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
+    "name":"PYTHON COURSE ",
+    "courses": "23 courses",
+    "review":"45 reviews",
+    "authorName": "deq e quik",
+    "authorDec":"Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science, Machine Learning and Python Programming. He has publications and patents in various fields such as microfluidics, materials science, and data science. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming, the ability to analyze data, and the skills needed to present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Training and provides in-person data science and python programming",
+    "authorImg": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-ethnic-businessman-in-office-picture-id1300512215?b=1&k=20&m=1300512215&s=170667a&w=0&h=LsZL_-vvAHB2A2sNLHu9Vpoib_3aLLkRamveVW3AGeQ=",
+     "dec":"Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords  Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation."
      },
     {
     "id":"5",
     "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?cs=srgb&dl=pexels-george-becker-374918.jpg&fm=jpg&_gl=1*13ae1og*_ga*MTM5MDk1MzI0NC4xNjY2NDMwNTMy*_ga_8JE65Q40S6*MTY2NjcxMDc5OS42LjEuMTY2NjcxMDgxMi4wLjAuMA..",
-    "name":"REACT",
-     "dec":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
+    "name":"REACT JS ",
+    "courses": "54 courses",
+    "review":"124 reviews",
+    "rate": "$29",
+    "authorName": "Majidil Islam",
+    "authorDec":"An amazing course to start building React applications, the instructor is extremely great, he explains everything in different ways and shows us all the possible ways to work with React. If you're thinking about taking your career to the next level and learn something trendy, I really advise you in this course. Lastly, I want to thank the instructor for such a lovely course, I wish you all the best. Regards",
+    "authorImg": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-ethnic-businessman-in-office-picture-id1300512215?b=1&k=20&m=1300512215&s=170667a&w=0&h=LsZL_-vvAHB2A2sNLHu9Vpoib_3aLLkRamveVW3AGeQ=",
+     "dec":"Dive in and learn React.js from scratch! React is a library for building composable user interfaces. It encourages the creation of reusable UI components, which present data that changes over time  Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more! Build powerful, fast, user-friendly and reactive web appsProvide amazing user experiences by leveraging the power of JavaScript with easeApply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now "
     },
     {
     "id":"6",
     "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?cs=srgb&dl=pexels-george-becker-374918.jpg&fm=jpg&_gl=1*13ae1og*_ga*MTM5MDk1MzI0NC4xNjY2NDMwNTMy*_ga_8JE65Q40S6*MTY2NjcxMDc5OS42LjEuMTY2NjcxMDgxMi4wLjAuMA..",
     "name":"NODE JS",
-     "dec":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
+    "courses": "28 courses",
+    "review":"89 reviews",
+    "rate": "$29",
+    "authorName": "Masud Kalam",
+    "authorDec":"Starting out at the age of 12 I never stopped learning new programming skills and languages. Early I started creating websites for friends and just for fun as well. Besides web development I also explored Python and other non-web-only languages. This passion has since lasted and lead to my decision of working as a freelance web developer and consultant. The success and fun I have in this job is immense and really keeps that passion",
+    "authorImg": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-ethnic-businessman-in-office-picture-id1300512215?b=1&k=20&m=1300512215&s=170667a&w=0&h=LsZL_-vvAHB2A2sNLHu9Vpoib_3aLLkRamveVW3AGeQ=",
+     "dec":" Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications. The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
     }
 
 
