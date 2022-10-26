@@ -1,0 +1,27 @@
+[
+    {
+        "id": "01",
+        "name": "HMTL"
+      },
+      {
+        "id": "02",
+        "name": "CSS"
+      },
+      {
+        "id": "03",
+        "name": "JAVASCRIPT"
+      },
+      {
+        "id": "04",
+        "name": "REACT"
+      },
+      {
+        "id": "05",
+        "name": "NODE JS"
+      },
+      {
+        "id": "06",
+        "name": "EXPRESS"
+      }
+     
+    ]
