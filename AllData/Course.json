@@ -1,0 +1,40 @@
+[
+    {
+    "id":"1",
+    "name":"HTML",
+    "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?cs=srgb&dl=pexels-george-becker-374918.jpg&fm=jpg&_gl=1*13ae1og*_ga*MTM5MDk1MzI0NC4xNjY2NDMwNTMy*_ga_8JE65Q40S6*MTY2NjcxMDc5OS42LjEuMTY2NjcxMDgxMi4wLjAuMA..",
+     "dec":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
+    },
+    {
+    "id":"2",
+    "name":"JAVASCRIPT",
+    "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?cs=srgb&dl=pexels-george-becker-374918.jpg&fm=jpg&_gl=1*13ae1og*_ga*MTM5MDk1MzI0NC4xNjY2NDMwNTMy*_ga_8JE65Q40S6*MTY2NjcxMDc5OS42LjEuMTY2NjcxMDgxMi4wLjAuMA..",
+     "dec":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
+    },
+    {
+    "id":"3",
+    "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?cs=srgb&dl=pexels-george-becker-374918.jpg&fm=jpg&_gl=1*13ae1og*_ga*MTM5MDk1MzI0NC4xNjY2NDMwNTMy*_ga_8JE65Q40S6*MTY2NjcxMDc5OS42LjEuMTY2NjcxMDgxMi4wLjAuMA..",
+    "name":"CSS",
+     "dec":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
+    },
+    {
+    "id":"4",
+    "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?cs=srgb&dl=pexels-george-becker-374918.jpg&fm=jpg&_gl=1*13ae1og*_ga*MTM5MDk1MzI0NC4xNjY2NDMwNTMy*_ga_8JE65Q40S6*MTY2NjcxMDc5OS42LjEuMTY2NjcxMDgxMi4wLjAuMA..",
+    "name":"PYTHON",
+     "dec":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
+     },
+    {
+    "id":"5",
+    "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?cs=srgb&dl=pexels-george-becker-374918.jpg&fm=jpg&_gl=1*13ae1og*_ga*MTM5MDk1MzI0NC4xNjY2NDMwNTMy*_ga_8JE65Q40S6*MTY2NjcxMDc5OS42LjEuMTY2NjcxMDgxMi4wLjAuMA..",
+    "name":"REACT",
+     "dec":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
+    },
+    {
+    "id":"6",
+    "img": "https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?cs=srgb&dl=pexels-george-becker-374918.jpg&fm=jpg&_gl=1*13ae1og*_ga*MTM5MDk1MzI0NC4xNjY2NDMwNTMy*_ga_8JE65Q40S6*MTY2NjcxMDc5OS42LjEuMTY2NjcxMDgxMi4wLjAuMA..",
+    "name":"NODE JS",
+     "dec":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScrip"
+    }
+
+
+]
