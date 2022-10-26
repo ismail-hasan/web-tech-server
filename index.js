@@ -18,6 +18,12 @@ app.get("/course", (req, res) => {
 app.get("/courseList", (req, res) => {
   res.send(courseList);
 });
+app.get("/courseList/:id", (req, res) => {
+  const id = req.params.id;
+  const listID = courseList.find((list) => list.id === id) || {};
+  res.send(listID);
+  res.send(courseList);
+});
 
 app.get("/course/:id", (req, res) => {
   const id = req.params.id;

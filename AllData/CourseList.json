@@ -1,27 +1,27 @@
 [
     {
-        "id": "01",
-        "name": "HMTL"
+        "id": "1",
+        "name": "HTML AND CSS"
       },
       {
-        "id": "02",
-        "name": "CSS"
+        "id": "2",
+        "name": "JAVASCRIPT COURSE"
       },
       {
-        "id": "03",
-        "name": "JAVASCRIPT"
+        "id": "3",
+        "name": "MASTER OF CSS"
       },
       {
-        "id": "04",
-        "name": "REACT"
+        "id": "4",
+        "name": "PYTHON COURSE "
       },
       {
-        "id": "05",
+        "id": "5",
+        "name": "REACT JS "
+      },
+      {
+        "id": "6",
         "name": "NODE JS"
-      },
-      {
-        "id": "06",
-        "name": "EXPRESS"
       }
      
     ]
